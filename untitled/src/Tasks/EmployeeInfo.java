@@ -1,3 +1,5 @@
+package Tasks;
+
 public class EmployeeInfo {
     public static void main(String[] args) {
         int empId = 100;
