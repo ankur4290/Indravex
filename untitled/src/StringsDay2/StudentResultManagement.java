@@ -1,4 +1,4 @@
-package StringsDay2.Tasks;
+package StringsDay2;
 
 import java.util.Scanner;
 
