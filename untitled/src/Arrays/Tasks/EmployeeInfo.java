@@ -1,4 +1,4 @@
-package Arrays.CaseStudy.Tasks;
+package Arrays.Tasks;
 
 public class EmployeeInfo {
     public static void main(String[] args) {
