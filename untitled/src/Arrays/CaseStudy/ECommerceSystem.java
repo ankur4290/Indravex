@@ -1,4 +1,4 @@
-package CaseStudy;
+package Arrays.CaseStudy;
 
 import java.util.Scanner;
 

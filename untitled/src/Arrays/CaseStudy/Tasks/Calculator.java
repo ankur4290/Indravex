@@ -1,4 +1,4 @@
-package Tasks;
+package Arrays.CaseStudy.Tasks;
 
 public class Calculator {
     public static void main(String[] args) {

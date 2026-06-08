@@ -1,4 +1,4 @@
-package Tasks;
+package Arrays.CaseStudy.Tasks;
 
 public class JavaSetupCheck {
     public static void main (String[] args) {

@@ -1,4 +1,4 @@
-package Tasks;
+package Arrays.CaseStudy.Tasks;
 
 import java.util.Scanner;
 
